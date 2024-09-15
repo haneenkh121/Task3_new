@@ -1,0 +1,25 @@
+.header{
+    text-align: center;
+    p{
+        color: darkgray;
+        font-style: italic;
+    }
+}
+.item{
+    text-align: center;
+    float: left;
+    width: 33%; 
+}
+.job{
+    color: darkgray;
+}
+.clear{
+ clear: left; 
+ 
+}
+.footer{
+    text-align: center;
+    color: darkgray;
+
+}
+
